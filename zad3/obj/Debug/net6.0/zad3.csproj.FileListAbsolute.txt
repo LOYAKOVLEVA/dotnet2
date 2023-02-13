@@ -1,0 +1,15 @@
+/Users/larisayakovleva/Desktop/dotnet2/zad3/bin/Debug/net6.0/zad3
+/Users/larisayakovleva/Desktop/dotnet2/zad3/bin/Debug/net6.0/zad3.deps.json
+/Users/larisayakovleva/Desktop/dotnet2/zad3/bin/Debug/net6.0/zad3.runtimeconfig.json
+/Users/larisayakovleva/Desktop/dotnet2/zad3/bin/Debug/net6.0/zad3.dll
+/Users/larisayakovleva/Desktop/dotnet2/zad3/bin/Debug/net6.0/zad3.pdb
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.csproj.AssemblyReference.cache
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.AssemblyInfoInputs.cache
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.AssemblyInfo.cs
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.csproj.CoreCompileInputs.cache
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.dll
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/refint/zad3.dll
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.pdb
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/zad3.genruntimeconfig.cache
+/Users/larisayakovleva/Desktop/dotnet2/zad3/obj/Debug/net6.0/ref/zad3.dll
